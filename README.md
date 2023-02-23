@@ -24,9 +24,6 @@
     <img width="575" height="300" src="src/gif4.gif" >
 </p>
 
-<p> 
-    <img width="575" height="300" src="src/gif5.gif" >
-</p>
 
 
 
